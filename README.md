@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 개발자 이유영입니다.
 
 <!--
 **YuyoungRhee/YuyoungRhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Git,Github 실습 중
+- React 공부 중
