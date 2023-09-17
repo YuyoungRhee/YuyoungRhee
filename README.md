@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - Git,Github 실습 중
-- React 공부 중
+- 자바스크립트 / Node.js 공부 중
