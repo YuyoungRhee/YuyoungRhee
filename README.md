@@ -22,4 +22,4 @@
 - [우아한테크코스](https://www.woowacourse.io/) 7기 백엔드 파트 수료 (2025.02 - 2025.11)
 
 ### GitHub Stats
-![YuyoungRhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuyoungRhee&show_icons=true&hide_title=true&theme=default)
+[![YuyoungRhee's stats](https://github-readme-stats-yuyoungrhees-projects.vercel.app/api?username=YuyoungRhee&show_icons=true&hide_border=true)](https://github.com/YuyoungRhee) [![YuyoungRhee's langs](https://github-readme-stats-yuyoungrhees-projects.vercel.app/api/top-langs/?username=YuyoungRhee&layout=compact&hide_border=true)](https://github.com/YuyoungRhee)
