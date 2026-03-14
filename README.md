@@ -20,3 +20,21 @@
 - [UMC](https://umc.makeus.in/) 4th PM 파트 수료 (2023.03 - 2023.08)
 - [UMC](https://umc.makeus.in/) 6th Android 파트 수료 (2024.03 - 2024.08)
 - [우아한테크코스](https://www.woowacourse.io/) 7기 백엔드 파트 수료 (2025.02 - 2025.11)
+
+### Github status
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats-yuyoungrhees-projects.vercel.app/api?username=YuyoungRhee&show_icons=true&hide_border=true&hide_title=true&format=svg"
+        height="165"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats-yuyoungrhees-projects.vercel.app/api/top-langs/?username=YuyoungRhee&layout=compact&langs_count=5&hide_border=true&format=svg"
+        height="165"
+      />
+    </td>
+  </tr>
+</table>
